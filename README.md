@@ -5,7 +5,7 @@ HTML is the standard markup language used for creating webpages , it describes t
 for example : The h1 element defines a large heading , while the p element defines a paragraph.
 WHAT IS A HTML ELEMENT ?
 An HTML element is defined by a start tag {opening tag} ,some content and an end tag {closing tag}.
-<h1>CONTENT</h1>
+h1 CONTENT h1
 The HTML element is everything from the start tag to the end tag.
 
 HTML Syntax - 
