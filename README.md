@@ -23,7 +23,7 @@ There are four HTML elements - two for BOLD and two for ITALICS
 
 e.g. I - ITALICS   B - BOLD
 
-<q> - stands for quote 
+q - stands for quote 
 
 HTML supports 140 standard color names.
 IN HTML colors are specified using predefined color names.
