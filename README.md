@@ -2,7 +2,7 @@ HTML & CSS
 
 HTML-Hyper Text Markup Language 
 HTML is the standard markup language used for creating webpages , it describes the structure of a webpage . HTML consist of a series of elements . these elements tell the browser how to display the content.
-for example : The <h1> element defines a large heading , while the <p> element defines a paragraph.
+for example : The h1 element defines a large heading , while the p element defines a paragraph.
 WHAT IS A HTML ELEMENT ?
 An HTML element is defined by a start tag {opening tag} ,some content and an end tag {closing tag}.
 <h1>CONTENT</h1>
