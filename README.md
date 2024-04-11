@@ -185,3 +185,20 @@ When you want to add a image to a webpage - WE USE THE IMAGE ELEMENT - IMG - <im
 
 
 
+WORK WITH FORMS AND INTERACTIVE ELEMENTS
+-- FORM FUNDAMENTALS --
+
+Form fields have been an essential part of the web for a long time . They are used for various tasks like logging into websites,making purchases,conducting searches and adding elements.
+div = is a block element 
+         &
+span= is an inline element
+
+It is important to use samantic form elements in HTML instead of divs and spans because it allows us to leverage the built-in power of the browser . This way we avoid wasting time and effort trying to recreate
+functionalities that already exist in the browser . Moreover by using HTML form elements we ensure that forms wil be compatible with all devices and input/output hardware , even those we may not be familiar with
+
+You will first create a simple form to sign up to an email newsletter .We need two field for this :
+
+1.The person's name 
+2.The email address 
+
+
